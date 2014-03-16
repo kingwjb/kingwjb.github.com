@@ -1,0 +1,26 @@
+title: 灵魂在键盘上独舞
+subtitle: 专注于JavaEE、Node.js、搜索引擎、并发、分布式技术等技术研发
+link: http://wangjunbao.net
+meta:
+  description: Java Node.js 搜索引擎 大数据 云计算 分布式
+  keywords: !!seq
+    - Java
+    - 搜索引擎
+    - 大数据
+  author: kingwjb@gmail.com || 172762619@qq.com
+master:
+  name: 王君保
+  about: 码农、完美主义者、有着英雄情结的理想主义者、有着程序员式的幽默和孤独
+  email: kingwjb@gmail.com
+rss:
+  title: 灵魂在键盘上独舞
+  desc: 专注于JavaEE、Node.js、搜索引擎、并发、分布式技术等技术研发
+  lang: zh-cn
+  max: 1019
+copyright:
+  owner: 版权所有
+  beginYear: 2014
+  endYear: 2015
+  ICP: 备案号
+theme: default
+codetheme: night
